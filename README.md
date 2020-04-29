@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pbaker0346/pbaker/_apis/build/status/pbakerserenitize.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/pbaker0346/pbaker/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
